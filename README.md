@@ -13,6 +13,7 @@
 	<br>Stakeholders:<ul>
 	<li>Restaurants</li>
 	<!--Add more stakeholders here, describe them below-->
+        <li>Tourist</li>
 	</ul>
 </p>
 <strong>Restaurants:</strong><br>
